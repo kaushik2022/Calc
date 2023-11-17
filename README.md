@@ -100,7 +100,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Uploading image.png…]()
+![image](https://github.com/kaushik2022/Calc/assets/129837020/d29463d7-c9cb-4df9-8bc8-a3f133d58bbc)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
